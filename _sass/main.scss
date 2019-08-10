@@ -51,10 +51,8 @@ body {
 
   .hero {
     width: 100%;
-    border: 1px solid red;
-    background-color: royalblue;
     img {
-      width: 800px;
+      max-width: 100%;
       height: auto;
       margin: 0 auto;
     }
