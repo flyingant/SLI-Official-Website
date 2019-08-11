@@ -5,15 +5,17 @@ $sli-gold: darkgoldenrod;
   margin: 0 auto;
   padding: 0 12px;
   h1 {
-    font-size: 52px;
+    font-size: 35px;
     line-height: 125%;
   }
   p {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 200;
     line-height: 140%;
   }
   img {
+    width: 100%;
     max-width: 100%;
+    height: auto;
   }
 }

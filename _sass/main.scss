@@ -28,8 +28,7 @@ body {
     justify-content: space-between;
 
     .logo {
-      width: 120px;
-      height: 80px;
+      display: flex;
     }
 
     .tab {
@@ -112,11 +111,11 @@ body {
       padding: 0;
 
       .item {
-        height: 80px;
+        height: 280px;
         list-style: none;
-        border-top: 1px solid #666666;
+        border: 1px solid lightgray;
         cursor: pointer;
-        padding: 12px 0;
+        margin: 12px 0;
 
         a {
           display: flex;
@@ -126,17 +125,46 @@ body {
           font-weight: 400;
           color: #000000;
           text-decoration: none;
+          overflow: hidden;
+          .introduction {
+            width: 240px;
+            height: 280px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            .meta {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              font-size: 16px;
+              color: grey;
+              padding: 12px 12px 0 12px;
+            }
+            .title {
+              width: 220px;
+              font-size: 20px;
+              font-weight: 400;
+              line-height: 125%;
+              padding: 12px;
+            }
+            .more {
+              width: 100%;
+              font-size: 14px;
+              padding: 12px;
+            }
+          }
+
+          .coverImage{
+            height: 280px;
+            img {
+              width: 100%;
+              height: auto;
+            }
+          }
 
           &:hover {
             color: #666666;
             text-decoration: none;
-          }
-
-          .thumb-image {
-            width: 48px;
-            height: 48px;
-            margin-right: 24px;
-            border: 1px solid $sli-gold;
           }
         }
       }

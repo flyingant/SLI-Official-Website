@@ -8,8 +8,19 @@ layout: home
     {% for post in site.posts %}
     <li class="item">
       <a href="{{ post.url }}">
-        <img class="thumb-image" src="/assets/images/heart.png">
-        <h3>{{ post.title }}</h3>
+        <div class="introduction">
+          <div class="meta">
+            <span>Shanghai</span>
+            <span>Date</span>
+          </div>
+          <div class="title">
+            {{ post.title }}
+          </div>
+          <div class="more">Read more >>></div>
+        </div>
+        <div class="coverImage">
+          <img src="{{ post.coverImageURL }}">
+        </div>
       </a>
     </li>
     {% endfor %}
