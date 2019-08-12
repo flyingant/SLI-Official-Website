@@ -2,7 +2,12 @@
 layout: home
 ---
 
-<div class="hero center">
+<div class="hero center case-study-carousel">
+  {% for post in site.posts %}
+  <div class="coverImage">
+    <img src="{{ post.coverImageURL }}">
+  </div>
+  {% endfor %}
 </div>
 <section>
   <div class="left">
