@@ -4,6 +4,7 @@ title:  "Spreading the word: building on Tangier Med’s legacy"
 date: 2019-08-10
 permalink: case/building-on-Tangier-Meds-legacy
 coverImageURL: /assets/images/tangier-med/1.jpg
+city: Shanghai
 ---
 <h1>Spreading the word: building on Tangier Med’s legacy</h1>
 <p>

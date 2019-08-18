@@ -4,6 +4,7 @@ title:  "Rethinking environmental-friendly fashion with klee klee"
 date: 2019-08-10
 permalink: case/Rethinking-environmental-friendly-fashion-with-klee-klee
 coverImageURL: /assets/images/klee-klee/1.jpg
+city: Shanghai
 ---
 <h1>Rethinking environmental-friendly fashion with klee klee</h1>
 <p>

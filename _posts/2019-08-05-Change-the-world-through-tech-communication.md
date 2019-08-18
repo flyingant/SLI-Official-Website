@@ -4,6 +4,7 @@ title:  "tcworld: Change the world through tech communication"
 date: 2019-08-10
 permalink: case/Change-the-world-through-tech-communication
 coverImageURL: /assets/images/tcworld/1.jpg
+city: Shanghai
 ---
 <h1>tcworld: Change the world through tech communication</h1>
 <p>

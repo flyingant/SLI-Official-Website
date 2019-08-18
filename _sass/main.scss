@@ -39,6 +39,7 @@ body {
       height: 80px;
 
       a {
+        padding: 0 6px;
         font-size: 16px;
         font-weight: 600;
         color: #000000;
@@ -48,6 +49,12 @@ body {
           text-decoration: none;
           border-bottom: 2px solid #000000;
         }
+      }
+    }
+
+    @media screen and (max-width: 480px) {
+      .text-logo {
+        display: none;
       }
     }
   }
@@ -161,10 +168,12 @@ body {
       .item {
         height: 280px;
         list-style: none;
-        border: 1px solid lightgray;
         cursor: pointer;
         margin: 12px 0;
 
+        &:hover {
+          border-bottom: 1px solid lightgray;
+        }
         a {
           display: flex;
           align-items: center;
@@ -224,6 +233,6 @@ body {
     height: 80px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
   }
 }

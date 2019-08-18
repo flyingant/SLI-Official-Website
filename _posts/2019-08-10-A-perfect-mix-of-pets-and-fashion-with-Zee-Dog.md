@@ -4,6 +4,7 @@ title:  "Pet Meets Fashion: A perfect mix of pets and fashion with Zee Dog"
 date: 2019-08-10
 permalink: case/A-perfect-mix-of-pets-and-fashion-with-Zee-Dog
 coverImageURL: /assets/images/zee-dog/Raven3633.jpg
+city: Shanghai
 ---
 <h1>Pet Meets Fashion: A perfect mix of pets and fashion with Zee Dog</h1>
 <p>

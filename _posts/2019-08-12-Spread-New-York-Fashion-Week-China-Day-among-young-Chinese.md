@@ -4,6 +4,7 @@ title:  "Youth made China: Spread New York Fashion Week China Day among young Ch
 date: 2019-08-10
 permalink: case/Spread-New-York-Fashion-Week-China-Day-among-young-Chinese
 coverImageURL: /assets/images/new-york-fashion-week/2.jpeg
+city: New York
 ---
 <h1>Youth made China: Spread New York Fashion Week China Day among young Chinese</h1>
 <p>

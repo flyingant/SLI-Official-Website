@@ -3,20 +3,19 @@ layout: home
 ---
 
 <div class="post-list">
-  <h1>Title for all case studies?</h1>
+  <h1>RECENT WORK</h1>
   <ul>
     {% for post in site.posts %}
     <li class="item">
       <a href="{{ post.url }}">
         <div class="introduction">
           <div class="meta">
-            <span>Shanghai</span>
-            <span>Date</span>
+            <span>{{ post.city }}</span>
           </div>
           <div class="title">
             {{ post.title }}
           </div>
-          <div class="more">Read more >>></div>
+          <div class="more">read more</div>
         </div>
         <div class="coverImage">
           <img src="{{ post.coverImageURL }}">

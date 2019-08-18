@@ -4,6 +4,7 @@ title:  "Furbo: expand China market by pure blogger method"
 date: 2019-08-10
 permalink: case/expand-China-market-by-pure-blogger-method
 coverImageURL: /assets/images/furbo/1.png
+city: Shanghai
 ---
 <h1>Furbo: expand China market by pure blogger method</h1>
 <p>

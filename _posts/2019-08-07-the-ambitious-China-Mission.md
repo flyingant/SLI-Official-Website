@@ -4,6 +4,7 @@ title:  "Luxembourg for Finance: the ambitious China Mission"
 date: 2019-08-10
 permalink: case/the-ambitious-China-Mission
 coverImageURL: /assets/images/luxembourg/MAR_0100.jpg
+city: Luxembourg
 ---
 <h1>Luxembourg for Finance: the ambitious China Mission</h1>
 <p>

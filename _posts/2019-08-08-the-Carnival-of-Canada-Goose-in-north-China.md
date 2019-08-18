@@ -4,6 +4,7 @@ title:  "A sales magic: the Carnival of Canada Goose in north China"
 date: 2019-08-10
 permalink: case/the-Carnival-of-Canada-Goose-in-north-China
 coverImageURL: /assets/images/canada-goose/1.png
+city: New York
 ---
 <h1>A sales magic: the Carnival of Canada Goose in north China</h1>
 <p>

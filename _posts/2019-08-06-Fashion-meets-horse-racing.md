@@ -4,6 +4,7 @@ title:  "Melbourne Cup Carnival - Fashion meets horse racing"
 date: 2019-08-10
 permalink: case/Fashion-meets-horse-racing
 coverImageURL: /assets/images/melbourne-cup-carnival/1.png
+city: Melbourne
 ---
 <h1>Melbourne Cup Carnival - Fashion meets horse racing</h1>
 <p>
