@@ -8,6 +8,20 @@ $sli-gold: darkgoldenrod;
     font-size: 35px;
     line-height: 125%;
   }
+
+  .carousel {
+    width: 100%;
+    height: 568px;
+
+    .item {
+      outline: none;
+
+      div {
+        width: 100%;
+        height: 568px;
+      }
+    }
+  }
   p {
     font-size: 18px;
     font-weight: 200;
