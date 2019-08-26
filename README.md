@@ -27,3 +27,15 @@ MaYi (WCL) <mayi@wiredcraft.com>
 ## Acknowledgments
 
 * work harder and code harder
+
+## Build using Docker
+```
+docker build . -t jekyll-builder
+
+# `cd` to the root of the project
+# After the build, `_site` folder will be generated.
+docker run \
+  -v $(pwd):/srv/jekyll \
+  jekyll-builder \
+  jekyll build
+```
