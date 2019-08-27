@@ -4,137 +4,71 @@ layout: home
 <div class="slogan">
   <h2>We are</h2>
   <h3>A LUXURY INDUSTRY COMMUNICATION COMPANY <br/> BASED IN SHANGHAI, CHINA.</h3>
-  <p>Some introduction to the company</p>
+  <p>We help overseas brands with marketing and communication in China to build brand awareness and reach out to Chinese consumers</p>
 </div>
-<section>
+<section class="business-section">
   <h2>Our Business</h2>
+  <p>We provide a series of service for our client: from brand consulting, to digital solution, from offline event to blogger and celebrity methods.</p>
   <div class="business">
-    <div>
-      <h3></h3>
+    <div class="item">
+      <div class="icon center">
+        <img class="black" src="assets/icons/luxury_black.png"/>
+        <img class="white" src="assets/icons/luxury_white.png"/>
+      </div>
+      <h3 class="center">Luxury / Fashion / Lifestyle</h3>
+      <p class="center">We help our clients to strategically plan marketing strategy, identify suitable media channels to enhance brand image and gain valuable exposure</p>
     </div>
-    <div>
+    <div class="item">
+      <div class="icon center">
+        <img class="black" src="assets/icons/finance_black.png"/>
+        <img class="white" src="assets/icons/finance_white.png"/>
+      </div>
       <h3>Finance</h3>
+      <p class="center">We help overseas government organisation and finance/ business/ tech companies to generate high-quality coverage amongst business media</p>
     </div>
-    <div>
-      <h3>Pet</h3>
+    <div class="item">
+      <div class="icon center">
+        <img class="black" src="assets/icons/pet_black.png"/>
+        <img class="white" src="assets/icons/pet_white.png"/>
+      </div>
+      <h3 class="center">Pet</h3>
+      <p class="center">We work with many overseas pet brands to boost awareness among Chinese young generations</p>
     </div>
   </div>
 </section>
-<section>
+<section class="recent-work-section">
   <h2>Recent Work</h2>
   <div class="carousel">
     {% for post in site.posts %}
-      <div class='item'>
+      <a class='item' href="{{ post.permalink }}">
         <div style="background: url('{{post.coverImageURL}}');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
         <h4> {{ post.title }}</h4>
-      </div>
+      </a>
     {% endfor %}
   </div>
 </section>
-<section>
+<section class="client-section">
   <h2>Our Client</h2>
   <div class="map">
-    <img src="assets/images/Pacific-centric-map.png">
+    <img class="bgMap" src="assets/icons/map.png">
     <div class="china">
-      <img src="assets/images/flags/china.png">
-    </div>
-    <div class="australia">
-      <img src="assets/images/flags/australia.png">
+      <img src="assets/icons/China.png">
     </div>
     <div class="brazil">
-      <img src="assets/images/flags/brazil.png">
+      <img src="assets/icons/Brazil.png">
     </div>
     <div class="canada">
-      <img src="assets/images/flags/canada.png">
+      <img src="assets/icons/Canada.png">
     </div>
     <div class="germany">
-      <img src="assets/images/flags/germany.png">
+      <img src="assets/icons/Germany.png">
     </div>
     <div class="luxembourg">
-      <img src="assets/images/flags/luxembourg.png">
+      <img src="assets/icons/Luxembourg.png">
     </div>
     <div class="united_states">
-      <img src="assets/images/flags/united_states.png">
+      <img src="assets/icons/America.png">
     </div>
-
   </div>
 </section>
-<!--<div class="container">-->
-<!--  <div class="slogan" data-aos="fade-in">-->
-<!--    <h1>WE ARE <br/> A LUXURY INDUSTRY COMMUNICATION COMPANY <br/> BASED IN SHANGHAI, CHINA.</h1>-->
-<!--  </div>-->
-<!--  <div class="mission" data-aos="fade-in">-->
-<!--    <h2 data-aos="fade-in">Our Mission</h2>-->
-<!--    <h4 data-aos="fade-in">Help overseas brands to build brand awareness and reach out to Chinese consumers:</h4>-->
-<!--    <ul>-->
-<!--      <li data-aos="fade-in">High net worth Chinese</li>-->
-<!--      <li data-aos="fade-in">Upper-middle-class Chinese</li>-->
-<!--      <li data-aos="fade-in">Luxe Fashionista</li>-->
-<!--      <li data-aos="fade-in">Trend-luxe Immune</li>-->
-<!--      <li data-aos="fade-in">Status Seeker</li>-->
-<!--    </ul>-->
-<!--  </div>-->
-<!--  &lt;!&ndash;  <div class="service">&ndash;&gt;-->
-<!--  &lt;!&ndash;    <h2 data-aos="fade-in">Our Service</h2>&ndash;&gt;-->
-<!--  &lt;!&ndash;    <div class="services">&ndash;&gt;-->
-<!--  &lt;!&ndash;      <div class="card center" data-aos="flip-up">&ndash;&gt;-->
-<!--  &lt;!&ndash;        <div class="title"> BRANDING</div>&ndash;&gt;-->
-<!--  &lt;!&ndash;        <ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;        </ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;      </div>&ndash;&gt;-->
-<!--  &lt;!&ndash;      <div class="card center" data-aos="flip-up">&ndash;&gt;-->
-<!--  &lt;!&ndash;        <div class="title"> BRANDING</div>&ndash;&gt;-->
-<!--  &lt;!&ndash;        <ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;        </ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;      </div>&ndash;&gt;-->
-<!--  &lt;!&ndash;      <div class="card center" data-aos="flip-up">&ndash;&gt;-->
-<!--  &lt;!&ndash;        <div class="title"> BRANDING</div>&ndash;&gt;-->
-<!--  &lt;!&ndash;        <ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;        </ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;      </div>&ndash;&gt;-->
-<!--  &lt;!&ndash;      <div class="card center" data-aos="flip-up">&ndash;&gt;-->
-<!--  &lt;!&ndash;        <div class="title"> BRANDING</div>&ndash;&gt;-->
-<!--  &lt;!&ndash;        <ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;          <li>Market consulting</li>&ndash;&gt;-->
-<!--  &lt;!&ndash;        </ul>&ndash;&gt;-->
-<!--  &lt;!&ndash;      </div>&ndash;&gt;-->
-<!--  &lt;!&ndash;    </div>&ndash;&gt;-->
-<!--  &lt;!&ndash;  </div>&ndash;&gt;-->
-<!--  <div class="map">-->
-<!--    <img src="assets/images/Pacific-centric-map.png">-->
-<!--    <div class="china">-->
-<!--      <img src="assets/images/flags/china.png">-->
-<!--    </div>-->
-<!--    <div class="australia">-->
-<!--      <img src="assets/images/flags/australia.png">-->
-<!--    </div>-->
-<!--    <div class="brazil">-->
-<!--      <img src="assets/images/flags/brazil.png">-->
-<!--    </div>-->
-<!--    <div class="canada">-->
-<!--      <img src="assets/images/flags/canada.png">-->
-<!--    </div>-->
-<!--    <div class="germany">-->
-<!--      <img src="assets/images/flags/germany.png">-->
-<!--    </div>-->
-<!--    <div class="luxembourg">-->
-<!--      <img src="assets/images/flags/luxembourg.png">-->
-<!--    </div>-->
-<!--    <div class="united_states">-->
-<!--      <img src="assets/images/flags/united_states.png">-->
-<!--    </div>-->
-
-<!--  </div>-->
-<!--</div>-->
 

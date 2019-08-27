@@ -1,7 +1,9 @@
 $sli-gold: darkgoldenrod;
 
 body {
-  margin: 0;
+  min-width: 420px;
+  max-width: 1024px;
+  margin: 0 auto;
   padding: 0;
   font-family: "NEXTBook",-apple-system,"Avenir next",Avenir,Roboto,Noto,"Helvetica neue",Helvetica,Arial,Sans-serif;
   .container {
@@ -32,14 +34,14 @@ body {
   section {
     width: 100%;
     margin: 48px auto;
-    h2 {
+    h2, h3, p {
       width: 100%;
       text-align: center;
     }
   }
 
   .slogan {
-    width: 80vw;
+    width: 80%;
     margin: 0 auto;
 
     h2 {
@@ -58,247 +60,174 @@ body {
     }
   }
 
-  .carousel {
-    width: 100%;
-    height: 568px;
-
-    .item {
-      outline: none;
-
-      div {
-        width: 100%;
-        height: 568px;
-      }
-      h4 {
-        width: 100%;
-        text-align: center;
-      }
-    }
-  }
-
-
-
-
-
-
-  .mission {
-    width: 60vw;
-    margin: 0 auto;
-
-    h2 {
-      font-size: 36px;
-      font-weight: 500;
-    }
-
-    h4 {
-      font-size: 32px;
-      font-weight: 300;
-    }
-
-    ul {
-      margin: 0;
-      padding: 0;
-
-      li {
-        font-size: 18px;
-      }
-    }
-  }
-
-  .service {
-    width: 100vw;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
-    h2 {
-      font-size: 36px;
-      font-weight: 500;
-    }
-
-    .services {
+  .business-section {
+    margin: 48px auto;
+    .business {
       display: flex;
       flex-direction: row;
       align-items: center;
-      justify-content: center;
-
-      .card {
-        width: 20vw;
-        height: 360px;
-        border: 1px solid $sli-gold;
-        margin: 0px 12px;
-        flex-direction: column;
-
-        .title {
-          font-size: 24px;
+      justify-content: space-between;
+      .item {
+        flex-grow: 3;
+        color: black;
+        max-width: 280px;
+        background-color: white;
+        .icon {
+          height: 72px;
         }
-
-        ul {
-          margin: 0;
-          padding: 0;
+        img {
+          margin: auto;
+          width: 45.5px;
+          height: 36.5px;
         }
-
-      }
-    }
-  }
-
-  .map {
-    position: relative;
-    width: 99vw;
-    margin: 24px auto;
-    overflow: hidden;
-
-    img {
-      width: 100%;
-      height: 100%;
-    }
-
-    .china {
-      position: absolute;
-      top: 26%;
-      left: 30%;
-      width: 30px;
-    }
-
-    .australia {
-      position: absolute;
-      top: 64%;
-      left: 37%;
-      width: 30px;
-    }
-
-    .brazil {
-      position: absolute;
-      top: 53%;
-      left: 88%;
-      width: 30px;
-    }
-
-    .canada {
-      position: absolute;
-      top: 13%;
-      left: 74%;
-      width: 30px;
-    }
-
-    .germany {
-      position: absolute;
-      top: 15%;
-      left: 5%;
-      width: 30px;
-    }
-
-    .luxembourg {
-      position: absolute;
-      top: 18%;
-      left: 4%;
-      width: 30px;
-    }
-
-    .united_states {
-      position: absolute;
-      top: 23%;
-      left: 71%;
-      width: 30px;
-    }
-  }
-
-  .post-list {
-    max-width: 768px;
-    margin: 0 auto;
-
-    h1 {
-      margin-bottom: 80px;
-      padding-bottom: 20px;
-      border-bottom: 2px solid #ccc;
-    }
-
-    section {
-      margin: 12px 0;
-
-      h3 {
-
-      }
-
-      ul {
-        width: 100%;
-        margin: 0;
-        padding: 0;
-
-        .item {
-          height: 280px;
-          list-style: none;
+        .black {
+          display: block;
+        }
+        .white {
+          display: none;
+        }
+        &:hover {
           cursor: pointer;
-          margin: 12px 0;
-          padding: 18px 0;
-          border-bottom: 1px solid #ccc;
-
-          a {
-            display: flex;
-            align-items: center;
-            justify-content: flex-start;
-            font-size: 18px;
-            font-weight: 400;
-            color: #000000;
-            text-decoration: none;
-            overflow: hidden;
-
-            .introduction {
-              width: 240px;
-              height: 280px;
-              display: flex;
-              flex-direction: column;
-              justify-content: space-around;
-
-              .meta {
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                font-size: 16px;
-                color: grey;
-                padding: 12px 12px 0 12px;
-              }
-
-              .title {
-                width: 220px;
-                font-size: 20px;
-                font-weight: 400;
-                line-height: 125%;
-                padding: 12px;
-              }
-
-              .more {
-                width: 100%;
-                font-size: 14px;
-                padding: 12px;
-
-                &:hover {
-                  color: #666666;
-                  text-decoration: none;
-                }
-              }
-            }
-
-            .coverImage {
-              height: 280px;
-
-              img {
-                width: 100%;
-                height: auto;
-              }
-            }
+          color: white;
+          background-color: lightpink;
+          .black {
+            display: none;
+          }
+          .white {
+            display: block;
           }
         }
+      }
+
+      @media (max-width:675px) {
+        flex-direction: column;
+      }
+    }
+  }
+  .recent-work-section {
+    margin: 48px auto;
+    .carousel {
+      width: 100%;
+      height: 568px;
+
+      .item {
+        display: block;
+        outline: none;
+        text-decoration: none;
+        &:hover {
+          text-decoration: none;
+        }
+        div {
+          width: 100%;
+          height: 568px;
+        }
+        h4 {
+          width: 100%;
+          text-align: center;
+        }
+      }
+    }
+  }
+  .client-section {
+    margin: 96px auto;
+    .map {
+      position: relative;
+      width: 778px;
+      height: 227px;
+      margin: 48px auto;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+      .bgMap {
+        display: block;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+        z-index: 99;
+      }
+
+      .china {
+        position: absolute;
+        top: -8%;
+        right: 20%;
+        width: 30px;
+        z-index: 100;
+      }
+
+      .australia {
+        position: absolute;
+        top: 64%;
+        left: 37%;
+        width: 30px;
+        z-index: 100;
+      }
+
+      .brazil {
+        position: absolute;
+        top: 21%;
+        left: 26%;
+        width: 30px;
+        z-index: 100;
+      }
+
+      .canada {
+        position: absolute;
+        top: -16%;
+        left: 14%;
+        width: 30px;
+        z-index: 100;
+      }
+
+      .germany {
+        position: absolute;
+        top: -2%;
+        left: 42%;
+        width: 30px;
+        z-index: 100;
+      }
+
+      .luxembourg {
+        position: absolute;
+        top: 6%;
+        left: 41%;
+        width: 30px;
+        z-index: 100;
+      }
+
+      .united_states {
+        position: absolute;
+        top: -1%;
+        left: 17%;
+        width: 30px;
+        z-index: 100;
       }
     }
   }
 
   .footer {
     width: 100%;
-    height: 80px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 120px;
+    border-top: 1px solid #CCC;
+    .item {
+      flex-grow: 3;
+      color: black;
+      max-width: 280px;
+      background-color: white;
+      .icon {
+        height: 64px;
+      }
+      img {
+        margin: auto;
+      }
+      h3, p {
+        width: 100%;
+        text-align: center;
+      }
+    }
   }
 }

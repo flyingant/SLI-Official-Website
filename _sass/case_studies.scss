@@ -1,0 +1,89 @@
+.posts {
+  max-width: 768px;
+  margin: 0 auto;
+
+  h1 {
+    margin-bottom: 80px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #ccc;
+  }
+
+  section {
+    margin: 12px 0;
+
+    h3 {
+
+    }
+
+    ul {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+
+      .item {
+        height: 280px;
+        list-style: none;
+        cursor: pointer;
+        margin: 12px 0;
+        padding: 18px 0;
+        border-bottom: 1px solid #ccc;
+
+        a {
+          display: flex;
+          align-items: center;
+          justify-content: flex-start;
+          font-size: 18px;
+          font-weight: 400;
+          color: #000000;
+          text-decoration: none;
+          overflow: hidden;
+
+          .introduction {
+            width: 240px;
+            height: 280px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+
+            .meta {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              font-size: 16px;
+              color: grey;
+              padding: 12px 12px 0 12px;
+            }
+
+            .title {
+              width: 220px;
+              font-size: 20px;
+              font-weight: 400;
+              line-height: 125%;
+              padding: 12px;
+            }
+
+            .more {
+              width: 100%;
+              font-size: 14px;
+              padding: 12px;
+
+              &:hover {
+                color: #666666;
+                text-decoration: none;
+              }
+            }
+          }
+
+          .coverImage {
+            height: 280px;
+
+            img {
+              width: 100%;
+              height: auto;
+            }
+          }
+        }
+      }
+    }
+  }
+}
