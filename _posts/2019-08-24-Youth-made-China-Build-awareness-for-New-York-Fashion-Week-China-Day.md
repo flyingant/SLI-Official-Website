@@ -3,41 +3,41 @@ layout: post
 title:  "Youth made China: Build awareness for New York Fashion Week China Day"
 date: 2019-08-24
 permalink: case/Youth-made-China-Build-awareness-for-New-York-Fashion-Week-China-Day
-coverImageURL: /assets/images/new-york-fashion-week/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-1.jpg
 city: New York
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>Youth made China: Build awareness for New York Fashion Week China Day</h1>
 <div class='carousel'>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/new-york-fashion-week/image-10.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-10.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
 </div>
 <p>

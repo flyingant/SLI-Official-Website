@@ -3,22 +3,22 @@ layout: post
 title:  "BABOR: Reveal German precision skincare concept by venue set-up"
 date: 2019-08-06
 permalink: case/BABOR-Reveal-German-precision-skincare-concept-by-venue-set-up
-coverImageURL: /assets/images/bobor/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/assets/images/bobor/image-1.jpg
 city: Shanghai
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>BABOR: Reveal German precision skincare concept by venue set-up</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/bobor/image-10.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/bobor/image-10.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
 </div>
 <p>
 July 2019, Shanghai—German skincare brand BABOR planned to organize a media conference to launch the new collection Dr. BABOR in China. SLI Communications is invited to help with venue set-up for this event. 

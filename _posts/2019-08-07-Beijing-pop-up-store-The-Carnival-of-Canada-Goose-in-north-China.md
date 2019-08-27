@@ -3,18 +3,18 @@ layout: post
 title:  "Beijing pop-up store: The Carnival of Canada Goose in north China"
 date: 2019-08-07
 permalink: case/Beijing-pop-up-store-The-Carnival-of-Canada-Goose-in-north-China
-coverImageURL: /assets/images/canada-goose/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/assets/images/canada-goose/image-1.jpg
 city: Beijing
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>Beijing pop-up store: The Carnival of Canada Goose in north China</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('../assets/images/canada-goose/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/canada-goose/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/canada-goose/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/canada-goose/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/canada-goose/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/canada-goose/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/canada-goose/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/canada-goose/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/canada-goose/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/canada-goose/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/canada-goose/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/canada-goose/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
 </div>
 <p>
 December 2018, Beijing—SLI Communications supported with Canada Goose Beijing pop-up store opening event and warm up for the upcoming opening of its new retail store in San Li Tun, Beijing.

@@ -3,34 +3,34 @@ layout: post
 title:  "Pet Fair Asia: The biggest pet carnival worldwide"
 date: 2019-08-17
 permalink: case/Pet-Fair-Asia-The-biggest-pet-carnival-worldwide
-coverImageURL: /assets/images/pet-fair/image-18.jpg
+coverImageURL: https://cdn.flyingant.me/assets/images/pet-fair/image-18.jpg
 city: Shanghai
 category: Pet
 ---
 <h1>Pet Fair Asia: The biggest pet carnival worldwide</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-10.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-11.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-12.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-13.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-14.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-15.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-16.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-17.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-18.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-19.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-20.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-21.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/pet-fair/image-22.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-10.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-11.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-12.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-13.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-14.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-15.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-16.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-17.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-18.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-19.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-20.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-21.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/pet-fair/image-22.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
 </div>
 <p>
 July 2019, Shanghai— On the 22nd Pet Fair Asia exhibition, SLI team was invited to plan for a pet fashion show to by leverage the experience and background in fashion/luxury industry.

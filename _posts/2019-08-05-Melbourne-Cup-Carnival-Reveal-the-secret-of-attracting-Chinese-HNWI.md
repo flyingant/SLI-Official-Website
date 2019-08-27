@@ -3,29 +3,29 @@ layout: post
 title:  "Melbourne Cup Carnival: Reveal the secret of attracting Chinese HNWI"
 date: 2019-08-05
 permalink: case/Melbourne-Cup-Carnival-Reveal-the-secret-of-attracting-Chinese-HNWI
-coverImageURL: /assets/images/melbourne-cup-carnival/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/assets/images/melbourne-cup-carnival/image-1.jpg
 city: Melbourne
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>Melbourne Cup Carnival: Reveal the secret of attracting Chinese HNWI</h1>
 <div class='carousel'>
   <div class='item'>
-    <div style="background: url('../assets/images/melbourne-cup-carnival/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/melbourne-cup-carnival/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/melbourne-cup-carnival/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/melbourne-cup-carnival/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/melbourne-cup-carnival/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/melbourne-cup-carnival/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/melbourne-cup-carnival/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/melbourne-cup-carnival/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/melbourne-cup-carnival/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/melbourne-cup-carnival/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/melbourne-cup-carnival/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/assets/images/melbourne-cup-carnival/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
 </div>
 <p>

@@ -3,20 +3,20 @@ layout: post
 title:  "Pet Meets Fashion: A perfect mix of pet and fashion with Zee Dog"
 date: 2019-08-13
 permalink: case/Pet-Meets-Fashion-A-perfect-mix-of-pet-and-fashion-with-Zee-Dog
-coverImageURL: /assets/images/zee-dog/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/assets/images/zee-dog/image-1.jpg
 city: New York
 category: Pet
 ---
 <h1>Pet Meets Fashion: A perfect mix of pet and fashion with Zee Dog</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('../assets/images/zee-dog/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/zee-dog/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
 </div>
 <p>
 February 2019, Shanghai—- SLI Communications worked with Brazilian pet brand Zee Dog for a media event to celebrate the launch of Zee Dog Tmall store and official entry into the Chinese market.
