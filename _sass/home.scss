@@ -1,9 +1,23 @@
 $sli-gold: darkgoldenrod;
 
+@font-face {
+  font-family: crimson;
+  src: url(../assets/fonts/CrimsonText-Italic.otf);
+}
+
+@font-face {
+  font-family: montserrat-black;
+  src: url(../assets/fonts/Montserrat-Black.ttf);
+}
+
+@font-face {
+  font-family: montserrat-medium;
+  src: url(../assets/fonts/Montserrat-Medium.ttf);
+}
+
 body {
   margin: 0 auto;
   padding: 0;
-  font-family: "NEXTBook",-apple-system,"Avenir next",Avenir,Roboto,Noto,"Helvetica neue",Helvetica,Arial,Sans-serif;
 
   .center {
     display: flex;
@@ -23,39 +37,61 @@ body {
       }
     }
     .slogan {
-      width: 80%;
-      margin: 0 auto;
-
+      width: 100%;
       h2 {
-        font-size: 48px;
-        font-weight: 500;
+        font-family: montserrat-black;
+        font-size: 64px;
+        letter-spacing: 4px;
         text-align: center;
       }
       h3 {
+        font-family: montserrat-medium;
         font-size: 32px;
-        font-weight: 500;
+        line-height: 48px;
+        letter-spacing: 4px;
         text-align: center;
       }
       p {
-        font-size: 16px;
+        width: 52%;
+        margin: 0 auto;
+        font-family: crimson;
+        font-size: 14px;
+        color: #666;
         text-align: center;
       }
     }
     .business {
+      font-family: sans-serif;
+      color: #666666;
+      h2 {
+        font-family: montserrat-medium;
+        font-size: 32px;
+        font-weight: 700;
+        color: black;
+        text-align: center;
+      }
+      .subtitle {
+        width: 60%;
+        margin: 0 auto;
+        font-family: sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 20px;
+        text-align: center;
+      }
       .categories {
         display: flex;
         flex-direction: row;
         align-items: flex-start;
         justify-content: space-between;
         max-width: 960px;
-        margin: 0 auto;
+        margin: 72px auto 0 auto;
         .item {
           width: 320px;
           display: flex;
           flex-direction: column;
           align-items: center;
           justify-content: flex-start;
-          color: black;
           background-color: white;
           .icon {
             height: 72px;
@@ -87,9 +123,27 @@ body {
               }
             }
           }
+          h3 {
+            font-family: sans-serif;
+            font-weight: 300;
+            color: black;
+            margin: 6px 0;
+          }
+          p {
+            width: 80%;
+            font-size: 14px;
+            font-family: sans-serif;
+            font-weight: 300;
+            line-height: 20px;
+          }
           &:hover {
             cursor: pointer;
-            color: white;
+            h3 {
+              color: white !important;
+            }
+            p {
+              color: white !important;
+            }
             background-color: lightpink;
             .black {
               display: none;
@@ -106,10 +160,15 @@ body {
       }
     }
     .recent-work {
+      h2 {
+        font-family: montserrat-medium;
+        font-size: 32px;
+        font-weight: 700;
+        color: black;
+        text-align: center;
+      }
       .carousel {
         width: 100%;
-        height: 568px;
-
         .item {
           display: block;
           outline: none;
@@ -119,7 +178,7 @@ body {
           }
           div {
             width: 100%;
-            height: 568px;
+            height: 480px;
           }
           h4 {
             width: 100%;
@@ -129,6 +188,13 @@ body {
       }
     }
     .client {
+      h2 {
+        font-family: montserrat-medium;
+        font-size: 32px;
+        font-weight: 700;
+        color: black;
+        text-align: center;
+      }
       .map {
         position: relative;
         width: 778px;
@@ -181,25 +247,25 @@ body {
 
         .germany {
           position: absolute;
-          top: -2%;
-          left: 42%;
-          width: 30px;
+          top: -17%;
+          left: 41%;
+          width: 46px;
           z-index: 100;
         }
 
         .luxembourg {
           position: absolute;
-          top: 6%;
-          left: 41%;
-          width: 30px;
+          top: -10%;
+          left: 39%;
+          width: 55px;
           z-index: 100;
         }
 
         .united_states {
           position: absolute;
-          top: -1%;
+          top: -9%;
           left: 17%;
-          width: 30px;
+          width: 38px;
           z-index: 100;
         }
         .australia {
@@ -211,34 +277,48 @@ body {
         }
         .morocco {
           position: absolute;
-          top: 9%;
+          top: -6%;
           left: 38%;
-          width: 30px;
+          width: 45px;
           z-index: 100;
         }
       }
     }
     .footer {
-      width: 100%;
+      width: 80%;
+      padding: 24px;
       display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 120px;
-      border-top: 1px solid #CCC;
+      align-items: flex-start;
+      justify-content: space-around;
+      margin: 80px auto 20px auto;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      -webkit-box-shadow: 0px -1px 26px -4px rgba(120,119,120,1);
+      -moz-box-shadow: 0px -1px 26px -4px rgba(120,119,120,1);
+      box-shadow: 0px -1px 26px -4px rgba(120,119,120,1);
       .item {
-        flex-grow: 3;
-        color: black;
-        max-width: 280px;
-        background-color: white;
+        flex-direction: column !important;
         .icon {
           height: 64px;
+          img {
+            margin: auto;
+          }
         }
-        img {
-          margin: auto;
-        }
-        h3, p {
-          width: 100%;
+        h2 {
+          font-family: montserrat-medium;
+          font-size: 18px;
+          font-weight: 700;
+          color: black;
           text-align: center;
+          margin: 0 0 6px 0;
+        }
+        p {
+          width: 80%;
+          margin: 0;
+          font-size: 14px;
+          font-family: sans-serif;
+          font-weight: 300;
+          line-height: 20px;
         }
       }
     }
