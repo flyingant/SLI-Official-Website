@@ -1,7 +1,7 @@
 $sli-gold: darkgoldenrod;
 
 .post {
-  max-width: 768px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 0 12px;
   h1 {
@@ -11,14 +11,37 @@ $sli-gold: darkgoldenrod;
 
   .carousel {
     width: 100%;
-    height: 568px;
-
+    height: 480px;
+    .slick-prev {
+      position: absolute;
+      top: 50%;
+      left: -60px;
+      margin-top: -16px;
+      width: 32px;
+      height: 32px;
+      background: url("../assets/icons/chevron_left.svg") no-repeat;
+      z-index: 300;
+    }
+    .slick-next {
+      position: absolute;
+      top: 50%;
+      right: -60px;
+      margin-top: -16px;
+      width: 32px;
+      height: 32px;
+      background: url("../assets/icons/chevron_right.svg") no-repeat;
+      z-index: 300;
+    }
+    .slick-list {
+      position: relative;
+      z-index: 200;
+    }
     .item {
       outline: none;
 
       div {
         width: 100%;
-        height: 568px;
+        height: 480px;
       }
     }
   }

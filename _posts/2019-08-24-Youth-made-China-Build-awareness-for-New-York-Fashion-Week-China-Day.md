@@ -4,7 +4,7 @@ title:  "Youth made China: Build awareness for New York Fashion Week China Day"
 date: 2019-08-24
 permalink: case/Youth-made-China-Build-awareness-for-New-York-Fashion-Week-China-Day
 coverImageURL: https://cdn.flyingant.me/assets/images/new-york-fashion-week/image-1.jpg
-city: New York
+city: Shanghai
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>Youth made China: Build awareness for New York Fashion Week China Day</h1>
