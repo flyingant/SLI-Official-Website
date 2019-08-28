@@ -4,11 +4,16 @@ layout: fullpage
 
 <div id="fullpage">
   <div class="section">
-    {% include header.html %}
-    <div class="slogan">
-      <h2>We are</h2>
-      <h3>A LUXURY INDUSTRY <br/> COMMUNICATION COMPANY <br/> BASED IN SHANGHAI, CHINA.</h3>
-      <p>We help overseas brands with marketing and communication in China to build brand awareness and reach out to Chinese consumers</p>
+    <div class="company">
+      {% include header.html %}
+      <div class="slogan">
+        <h2>We are</h2>
+        <h3>A LUXURY INDUSTRY <br/> COMMUNICATION COMPANY <br/> BASED IN SHANGHAI, CHINA.</h3>
+        <p>We help overseas brands with marketing and communication in China to build brand awareness and reach out to Chinese consumers</p>
+        <div class="down center">
+          <img width="24" height="24" src="{{ site.url }}{{ site.baseurl }}/assets/icons/down.svg"/>
+        </div>
+      </div>
     </div>
   </div>
   <div class="section">
@@ -45,7 +50,7 @@ layout: fullpage
   </div>
   <div class="section">
     <div class="recent-work">
-      <h2>Recent Work</h2>
+      <h2>Our Work</h2>
       <div class="carousel">
         {% for post in site.posts %}
         <a class='item' href="{{ post.permalink }}">
