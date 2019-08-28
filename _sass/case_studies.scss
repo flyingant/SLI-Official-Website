@@ -3,16 +3,18 @@
   margin: 0 auto;
 
   h1 {
+    font-family: montserrat-medium;
     margin-bottom: 80px;
     padding-bottom: 20px;
-    border-bottom: 2px solid #ccc;
   }
 
   section {
     margin: 12px 0;
 
     h3 {
-
+      font-family: crimson;
+      padding-bottom: 24px;
+      border-bottom: 1px solid #ccc;
     }
 
     ul {
@@ -26,9 +28,9 @@
         cursor: pointer;
         margin: 12px 0;
         padding: 18px 0;
-        border-bottom: 1px solid #ccc;
 
         a {
+          font-family: montserrat-medium;
           display: flex;
           align-items: center;
           justify-content: flex-start;
