@@ -53,6 +53,13 @@ body {
           }
         }
       }
+      @media (max-width:600px) {
+        li {
+          display: block;
+          text-align: center;
+          margin: 6px 0;
+        }
+      }
     }
   }
 
@@ -293,92 +300,97 @@ body {
         margin-top: 56px;
         margin-bottom: 48px;
       }
-      .map {
-        position: relative;
-        width: 778px;
-        height: 227px;
-        margin: 48px auto;
-        img {
-          width: 100%;
-          height: 100%;
-        }
-        .bgMap {
-          display: block;
+      .map_container{
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        .map {
           position: relative;
-          width: 100%;
-          height: 100%;
-          margin: 0 auto;
-          z-index: 99;
-        }
+          width: 778px;
+          height: 227px;
+          margin: 48px auto;
+          img {
+            width: 100%;
+            height: 100%;
+          }
+          .bgMap {
+            display: block;
+            position: relative;
+            width: 100%;
+            height: 100%;
+            margin: 0 auto;
+            z-index: 99;
+          }
 
-        .china {
-          position: absolute;
-          top: -8%;
-          right: 20%;
-          width: 30px;
-          z-index: 100;
-        }
+          .china {
+            position: absolute;
+            top: -8%;
+            right: 20%;
+            width: 30px;
+            z-index: 100;
+          }
 
-        .australia {
-          position: absolute;
-          top: 64%;
-          left: 37%;
-          width: 30px;
-          z-index: 100;
-        }
+          .australia {
+            position: absolute;
+            top: 64%;
+            left: 37%;
+            width: 30px;
+            z-index: 100;
+          }
 
-        .brazil {
-          position: absolute;
-          top: 21%;
-          left: 26%;
-          width: 30px;
-          z-index: 100;
-        }
+          .brazil {
+            position: absolute;
+            top: 21%;
+            left: 26%;
+            width: 30px;
+            z-index: 100;
+          }
 
-        .canada {
-          position: absolute;
-          top: -16%;
-          left: 14%;
-          width: 30px;
-          z-index: 100;
-        }
+          .canada {
+            position: absolute;
+            top: -16%;
+            left: 14%;
+            width: 30px;
+            z-index: 100;
+          }
 
-        .germany {
-          position: absolute;
-          top: -17%;
-          left: 41%;
-          width: 46px;
-          z-index: 100;
-        }
+          .germany {
+            position: absolute;
+            top: -17%;
+            left: 41%;
+            width: 46px;
+            z-index: 100;
+          }
 
-        .luxembourg {
-          position: absolute;
-          top: -10%;
-          left: 39%;
-          width: 55px;
-          z-index: 100;
-        }
+          .luxembourg {
+            position: absolute;
+            top: -10%;
+            left: 39%;
+            width: 55px;
+            z-index: 100;
+          }
 
-        .united_states {
-          position: absolute;
-          top: -9%;
-          left: 17%;
-          width: 38px;
-          z-index: 100;
-        }
-        .australia {
-          position: absolute;
-          top: 35%;
-          left: 81%;
-          width: 46px;
-          z-index: 100;
-        }
-        .morocco {
-          position: absolute;
-          top: -6%;
-          left: 38%;
-          width: 45px;
-          z-index: 100;
+          .united_states {
+            position: absolute;
+            top: -9%;
+            left: 17%;
+            width: 38px;
+            z-index: 100;
+          }
+          .australia {
+            position: absolute;
+            top: 35%;
+            left: 81%;
+            width: 46px;
+            z-index: 100;
+          }
+          .morocco {
+            position: absolute;
+            top: -6%;
+            left: 38%;
+            width: 45px;
+            z-index: 100;
+          }
         }
       }
     }
