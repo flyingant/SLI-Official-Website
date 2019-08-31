@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" rel="stylesheet" type="text/css"/>
   <link href="//cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.min.css" rel="stylesheet" type="text/css"/>
-  <link rel='stylesheet' href='{{ site.url }}{{ site.baseurl }}/assets/styles.css'>
+  <link rel='stylesheet' href='{{ site.url }}{{ site.baseurl }}/assets/styles.css?{{site.time | date: "%Y%m%d%H%M"}}'>
   <script src="//cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" type="text/javascript"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/vendors/easings.min.js" type="text/javascript"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/vendors/scrolloverflow.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 </head>
 <body>
   {{ content }}
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/slick-kit.js"></script>
+<script src='{{ site.url }}{{ site.baseurl }}/assets/js/main.js?{{site.time | date: "%Y%m%d%H%M"}}'></script>
+<script src='{{ site.url }}{{ site.baseurl }}/assets/js/slick-kit.js?{{site.time | date: "%Y%m%d%H%M"}}'></script>
 </body>
 </html>
