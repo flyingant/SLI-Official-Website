@@ -2,17 +2,17 @@ $sli-gold: darkgoldenrod;
 
 @font-face {
   font-family: crimson;
-  src: url(../assets/fonts/CrimsonText-Italic.otf);
+  src: url(https://cdn.flyingant.me/assets/fonts/CrimsonText-Italic.otf);
 }
 
 @font-face {
   font-family: montserrat-black;
-  src: url(../assets/fonts/Montserrat-Black.ttf);
+  src: url(https://cdn.flyingant.me/assets/fonts/Montserrat-Black.ttf);
 }
 
 @font-face {
   font-family: montserrat-medium;
-  src: url(../assets/fonts/Montserrat-Medium.ttf);
+  src: url(https://cdn.flyingant.me/assets/fonts/Montserrat-Medium.ttf);
 }
 
 body {
@@ -247,7 +247,7 @@ body {
           margin-top: -60px;
           width: 32px;
           height: 32px;
-          background: url("../assets/icons/chevron_left.svg") no-repeat;
+          background: url("https://cdn.flyingant.me/assets/icons/chevron_left.svg") no-repeat;
           z-index: 300;
         }
         .slick-next {
@@ -257,7 +257,7 @@ body {
           margin-top: -60px;
           width: 32px;
           height: 32px;
-          background: url("../assets/icons/chevron_right.svg") no-repeat;
+          background: url("https://cdn.flyingant.me/assets/icons/chevron_right.svg") no-repeat;
           z-index: 300;
         }
         .slick-list {
