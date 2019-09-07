@@ -219,6 +219,9 @@ body {
 
         @media (max-width:959px) {
           flex-direction: column;
+          .item {
+            height: 300px;
+          }
         }
       }
     }
@@ -283,9 +286,10 @@ body {
           }
           h4 {
             font-family: crimson;
-            width: 100%;
             text-align: center;
             color: #666666;
+            line-height: 20px;
+            padding: 0 10%;
           }
         }
       }
@@ -431,12 +435,11 @@ body {
         margin: 0 0 6px 0;
       }
       p {
-        width: 80%;
+        width: 86%;
         margin: 0;
         font-size: 10px;
         font-family: sans-serif;
         font-weight: 300;
-        line-height: 20px;
         text-align: center;
       }
     }
