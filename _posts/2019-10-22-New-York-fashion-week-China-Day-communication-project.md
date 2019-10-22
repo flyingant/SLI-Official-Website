@@ -34,6 +34,7 @@ category: Luxury/Fashion/Lifestyle
     <div style="background: url('../assets/images/NYFW/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
 </div>
+
 <p>
 September 8th, 2019 New York- the 4th“NYFW: Macalline China Day” hosted by SUNTCHI along with NYFW: The Shows will land in New York Fashion Week. Followed by the past seasons’ concepts of “China Cool”, “WOMEN POWER”, “YOUTH MADE CHINA”, the fourth season of China Day is themed as “70/40” on the official New York Fashion Week Calendar.
 </p>
