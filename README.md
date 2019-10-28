@@ -39,5 +39,3 @@ docker run \
   jekyll-builder \
   jekyll build
 ```
-
-
