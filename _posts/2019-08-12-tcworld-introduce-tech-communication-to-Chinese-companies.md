@@ -3,13 +3,13 @@ layout: post
 title:  "tcworld: introduce tech communication to Chinese companies"
 date: 2019-08-12
 permalink: case/tcworld-introduce-tech-communication-to-Chinese-companies
-coverImageURL: https://cdn.flyingant.me/assets/images/tcworld/image-1.jpg
+coverImageURL: ../assets/images/tcworld/image-5.jpg
 city: Shanghai
 category: Government/Finance/Tech
 ---
 <h1>tcworld: introduce tech communication to Chinese companies</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/tcworld/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('../assets/images/tcworld/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
   <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/tcworld/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
   <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/tcworld/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
   <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/tcworld/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
