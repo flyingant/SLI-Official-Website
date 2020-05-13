@@ -3,15 +3,15 @@ layout: post
 title:  "Furbo: expand China market by pure blogger method"
 date: 2019-08-16
 permalink: case/Furbo-expand-China-market-by-pure-blogger-method
-coverImageURL: https://cdn.flyingant.me/assets/images/furbo/image-2.jpg
+coverImageURL: https://cdn.flyingant.me/slicomms/assets/images/furbo/image-2.jpg
 city: Shanghai
 category: Pet
 ---
 <h1>Furbo: expand China market by pure blogger method</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/furbo/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/furbo/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/furbo/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/furbo/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/furbo/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/furbo/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
 </div>
 <p>
 March 2019, Shanghai—SLI Communications worked with Furbo on a series of blogger initiatives.

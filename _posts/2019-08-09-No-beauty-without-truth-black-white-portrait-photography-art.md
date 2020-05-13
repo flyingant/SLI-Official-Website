@@ -3,21 +3,21 @@ layout: post
 title:  "No beauty without truth: black-white portrait photography art"
 date: 2019-08-09
 permalink: case/No-beauty-without-truth-black-white-portrait-photography-art
-coverImageURL: https://cdn.flyingant.me/assets/images/beauty/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/slicomms/assets/images/beauty/image-1.jpg
 city: Shanghai
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>No beauty without truth: black-white portrait photography art</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/beauty/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/beauty/image-9.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
 </div>
 <p>
 June 2019, Shanghai—SLI Communications worked with Thierry B. studio to promote black-and-white portrait photography amongst Chinese celebrities, elites, entrepreneurs, HNWIs, etc. 

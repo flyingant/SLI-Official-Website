@@ -3,19 +3,19 @@ layout: post
 title:  "Rethinking environmental-friendly fashion with klee klee"
 date: 2019-08-08
 permalink: case/Rethinking-environmental-friendly-fashion-with-klee-klee
-coverImageURL: https://cdn.flyingant.me/assets/images/klee-klee/image-2.jpg
+coverImageURL: https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-2.jpg
 city: Shanghai
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>Rethinking environmental-friendly fashion with klee klee</h1>
 <div class='carousel'>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/klee-klee/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/klee-klee/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/klee-klee/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/klee-klee/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/klee-klee/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/klee-klee/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
-  <div class='item'><div style="background: url('https://cdn.flyingant.me/assets/images/klee-klee/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
+  <div class='item'><div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/klee-klee/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div></div>
 </div>
 <p>
 April 2019, Shanghai— SLI Communications work with klee klee for 2019 A/W new collection launch media event. 
