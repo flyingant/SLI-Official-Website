@@ -3,35 +3,35 @@ layout: post
 title:  "Broadcast 2020SS new collection launch event"
 date: 2019-10-21
 permalink: case/Broadcast-2020SS-new-collection-launch-event
-coverImageURL: ../assets/images/broadcast/image-2.png
+coverImageURL: https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-2.png
 city: Shanghai
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>Broadcast 2020SS new collection launch event</h1>
 <div class='carousel'>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-1.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-1.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-2.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-2.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-3.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-3.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-4.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-4.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-5.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-5.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-6.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-6.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-7.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-7.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/broadcast/image-8.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/broadcast/image-8.png');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
 </div>
 <p>

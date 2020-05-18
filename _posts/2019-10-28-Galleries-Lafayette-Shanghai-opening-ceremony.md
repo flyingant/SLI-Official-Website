@@ -3,26 +3,26 @@ layout: post
 title:  "Galleries Lafayette Shanghai opening ceremony"
 date: 2019-10-28
 permalink: case/Galleries-Lafayette-Shanghai-opening-ceremony
-coverImageURL: ../assets/images/GL/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/slicomms/assets/images/GL/image-1.jpg
 city: Shanghai
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>Galleries Lafayette Shanghai opening ceremony</h1>
 <div class='carousel'>
   <div class='item'>
-    <div style="background: url('../assets/images/GL/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/GL/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/GL/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/GL/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/GL/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/GL/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/GL/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/GL/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/GL/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/GL/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
 </div>
 

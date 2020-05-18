@@ -3,35 +3,35 @@ layout: post
 title:  "New York fashion week China Day communication project"
 date: 2019-10-22
 permalink: case/New-York-fashion-week-China-Day-communication-project
-coverImageURL: ../assets/images/NYFW/image-1.jpg
+coverImageURL: https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-1.jpg
 city: Shanghai
 category: Luxury/Fashion/Lifestyle
 ---
 <h1>New York fashion week China Day communication project</h1>
 <div class='carousel'>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-1.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-2.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-3.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-4.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-5.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-6.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-7.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
   <div class='item'>
-    <div style="background: url('../assets/images/NYFW/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
+    <div style="background: url('https://cdn.flyingant.me/slicomms/assets/images/NYFW/image-8.jpg');background-size: contain;background-repeat: no-repeat;background-position: center;"></div>
   </div>
 </div>
 
