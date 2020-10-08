@@ -39,4 +39,6 @@ docker run \
   jekyll-builder \
   jekyll build
 ```
+## Deployment
 
+Deployed by Netlify
